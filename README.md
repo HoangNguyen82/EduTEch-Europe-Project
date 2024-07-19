@@ -15,6 +15,9 @@
 ### Project Overview
 EduTech Europe is a new IT education initiative launched by a Euroupean Institution in Viet Namaiming to provide comprehensive Data Analysis training program to College Students and Employees. In this project, we will analyze Performance of Marketing Channels and Campaigns, Teaching Quality and Students' Outcome.
 
+![image](https://github.com/user-attachments/assets/3b06ad3c-b5c6-465d-bbb6-d785d5fefb94)
+
+
 ### Data Source
 The dataset includes 9 excel files:
 - sales_data.xlsx
